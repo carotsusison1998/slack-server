@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.editorconfig
+# file
+controllers/deck.js
+controllers/product.js
+controllers/user.js
+routes/deck.js
+routes/product.js
+routes/user.js
+models/Deck.js
+models/User.js
+helpers/routerHelpers.js
